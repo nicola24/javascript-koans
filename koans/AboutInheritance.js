@@ -87,3 +87,4 @@ describe("About Crockford's inheritance improvement", function() {
     expect(this.gonzo.trick).toEqual('eat a tire');
   });
 });
+//solved
