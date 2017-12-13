@@ -109,4 +109,3 @@ describe("About Functions", function() {
     expect(multiply.toString()).toBe(multiply.toString());
   });    
 });
-//solved
